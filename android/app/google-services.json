@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015084477657",
+    "project_id": "callkeep-74ec1",
+    "storage_bucket": "callkeep-74ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015084477657:android:d1eacca53ef7f975dee2c8",
+        "android_client_info": {
+          "package_name": "com.videosdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015084477657-fb34l4ajs3pl5kgahp61fnei9ik8vnvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videosdk",
+            "certificate_hash": "9ad5e55981e4324b608a36adf144dfde97659709"
+          }
+        },
+        {
+          "client_id": "1015084477657-r8hssrh4i5905pl4af9gs6gr85k7unoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARQnMho8a4cTMoKJ06-pt1s41eSB-U15Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015084477657-r8hssrh4i5905pl4af9gs6gr85k7unoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
